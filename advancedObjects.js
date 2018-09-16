@@ -172,6 +172,8 @@ console.log(newRobot);
 
 console.log(robot);
 
+// example of a "getter"
+
 let tempObj = {
   _num: 22,
   get num() {
