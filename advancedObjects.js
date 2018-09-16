@@ -179,7 +179,7 @@ let tempObj = {
   }
 };
 
-//examples of ways to get num
+//examples of ways to access num
 
 console.log(tempObj.num);
 console.log(tempObj[' num']);
